@@ -17,6 +17,8 @@ const port = process.env.PORT || 4000;
 const allowedOrigins = [
   "http://localhost:5173", // user frontend
   "http://localhost:5174", // admin dashboard
+  "https://hospital-frontend-dhv7.onrender.com",  // ← yeh add karo
+  "https://your-admin.onrender.com",               // ← admin deploy hone ke baad add karna
 ];
 
 app.use(
