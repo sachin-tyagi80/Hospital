@@ -19,7 +19,7 @@ import { serviceAppointmentsStyles } from "../../assets/dummyStyles";
 /* ----------------------
   Config
 ------------------------ */
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://hospital-backend-ayk1.onrender.com";
 
 /* ----------------------
   Helpers
